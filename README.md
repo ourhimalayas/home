@@ -2,5 +2,9 @@
 ---
 郭文貴先生的談話[文字版](https://github.com/ourhimalayas/txt)正在更新中。
 
+推薦文章：
+
+[郭文贵爆料革命 · 启蒙开智入门指南](https://github.com/ourhimalayas/txt/issues/1)
+
 一起尋找屬於我們的喜馬拉雅
 ![Himalayas](content/images/Himalayas.jpg)

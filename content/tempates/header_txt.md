@@ -2,3 +2,5 @@
 ---
 # 郭文貴先生視頻的文字版
 轉載自[戰友之聲](http://littleantvoice.blogspot.com)
+
+推薦:point_right: [郭文贵爆料革命 · 启蒙开智入门指南](https://github.com/ourhimalayas/txt/issues/1)

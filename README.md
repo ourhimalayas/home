@@ -1,7 +1,7 @@
-###  [:eagle:郭文](https://github.com/ourhimalayas/txt) | [:books:文字](https://github.com/ourhimalayas/txt)
-
+###  [:eagle:郭文](https://github.com/ourhimalayas/txt) | [:books:視頻文字](https://github.com/ourhimalayas/txt/blob/master/content/README.md) | [:pray:關於](https://github.com/ourhimalayas/home/tree/master/about)
 ---
-:star: 郭文貴先生的[郭文以及談話](https://github.com/ourhimalayas/txt)正在更新中。
+---
+:star: 郭文貴先生的郭文以及談話正在更新中。
 
 推薦文章：
 
